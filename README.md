@@ -1,0 +1,1 @@
+Lots of stuff deprecated. Some info on replacements here: https://stackoverflow.com/questions/47315066/nstask-process-deprecated-methods-and-properties
